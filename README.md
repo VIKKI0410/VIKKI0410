@@ -12,6 +12,8 @@ Aspiring Data Analyst
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>  
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 <img width="50" height="50" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> 
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
+
